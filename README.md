@@ -63,5 +63,5 @@ The dataset is stored in JSON format and can be read and processed using the sta
 ## Contact
 
 If you have any questions, please contact:
-- xueliang@byering.com
+- xueliang.xl@byering.com
 - xixi@byering.com
