@@ -59,3 +59,9 @@ The IDs in `user_profile.json`, `assistant_profile.json`, and `dialogue_plan.jso
 ## Usage Instructions
 
 The dataset is stored in JSON format and can be read and processed using the standard Python `json` library. Each dialogue is linked to its corresponding profiles and plan via corresponding IDs, facilitating in-depth scenario simulation and analysis.
+
+## Contact
+
+If you have any questions, please contact:
+- xueliang@byering.com
+- xixi@byering.com
