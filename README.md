@@ -11,6 +11,9 @@ This dataset simulates interactions between users and assistants in real-world s
 3.  **`assistant_profile.json`**: Assistant profile data, defining the assistant's role, professional qualifications, communication style, business scope, and domain-specific expertise.
 4.  **`dialogue_plan.json`**: Dialogue plans that specify the overall rhythm of the conversation (e.g., ice-breaking, need discovery, recommendation, closing) and key milestones.
 
+## Note
+We will provide English Version before 2026-4-15
+
 ## Statistics
 
 Below are the detailed statistics for each domain in the dataset:
